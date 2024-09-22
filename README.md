@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/73/c5/b2/73c5b2afc684e0e6bc1b9469e5120b88.png" width="1000">
 <h1 align="center"><b>Hola, I'm Bala Karthikeya 👋</b></h1>
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left"><b>I'm a creative front-end web developer from Bangalore<br><br>- 🔭 I’m currently Sophomore student at Dayananda Sagar University<br>- 📚 I'm currently learning: Node.js, Express.js, React.js<br>- ⚡ Fun Fact: I like to animate and play with websites I create <br> - 💻 My old portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
+<p align="left"><b>I'm a creative front-end web developer from Bangalore<br><br>- 👀 Interested in SDE, FSD, UI/UX, VR<br>- 🔭 I’m currently Sophomore student at Dayananda Sagar University<br>- 📚 I'm currently learning: Node.js, Express.js, React.js<br>- ⚡ Fun Fact: I like to animate and play with websites I create <br> - 💻 My old portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
 
 ###
 

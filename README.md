@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/73/c5/b2/73c5b2afc684e0e6bc1b9469e5120b88.png" width="1000">
-<h1 align="center">Hola, I'm Bala Karthikeya 👋</h1>
+<h1 align="center"><b>Hola, I'm Bala Karthikeya 👋</b></h1>
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">I'm a creative front-end web developer from Bangalore<br><br>- 🔭 I’m currently Sophomore student at Dayananda Sagar University<br>- 📚 I'm currently learning: Node.js, Express.js, React.js<br>- ⚡ Fun Fact: I like to animate and play with websites I create</p>
+<p align="left"><b>I'm a creative front-end web developer from Bangalore<br><br>- 🔭 I’m currently Sophomore student at Dayananda Sagar University<br>- 📚 I'm currently learning: Node.js, Express.js, React.js<br>- ⚡ Fun Fact: I like to animate and play with websites I create <br> - 💻 My old portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
 
 ###
 
@@ -10,10 +10,14 @@
 ###
 
 <div align="left">
+  <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=alurubalakarthikeya&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5&order=3" height="200"/>
+  </div>
+  <div>
   <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" height="220"/>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3" height="220"/>
+  </div>
 </div>
 
 ###
@@ -59,7 +63,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
 
 
 ## 🏆 GitHub Trophies
@@ -95,4 +99,4 @@
 
 
 ###
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=alurubalakarthikeya.alurubalakarthikeya&left_color=darkcyan&left_text=Profile%20Views"  />
+<img align="left" src="https://komarev.com/ghpvc/?username=alurubalakarthikeya&style=for-the-badge&color=brightgreen"  />

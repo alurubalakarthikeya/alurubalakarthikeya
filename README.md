@@ -82,9 +82,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
   <img align="center" src="https://media.tenor.com/M3lexDdZRTEAAAAM/pixel-art.gif" height="200px" alt="Cover"/>  
 </div>
-
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/bala-karthikeya-aluru/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />

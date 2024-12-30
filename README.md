@@ -80,7 +80,7 @@
 <br>
 <div>
   <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
-  <img align="center" src="https://media.tenor.com/M3lexDdZRTEAAAAM/pixel-art.gif" height="200px" alt="Cover"/>  
+  <img align="center" src="https://media1.giphy.com/media/TRebCjNbc4dIA/giphy.gif?cid=6c09b952ewim6qlvcw3mc6hjugzv5mx2pmhs5a3ty0da8987&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="350px" alt="Cover"/>  
 </div>
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
 <div align="left">

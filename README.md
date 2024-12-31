@@ -1,4 +1,4 @@
-<img  src="https://i.pinimg.com/originals/02/56/5c/02565c33131c9e8a241dd5ae4d97e81e.gif" width="1000">
+<img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <h1 align="center"><b>Hola, I'm Bala Karthikeya <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></b></h1>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
 <p align="left"><b>I'm a creative front-end web developer <br><br>

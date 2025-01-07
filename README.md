@@ -2,9 +2,11 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <hr/><br>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
-<p align="left"><b>I'm a creative front-end web developer <br><br>
+<p align="left"><b>I'm a 2nd year CS major student <br><br>
   - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, UI/UX, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> I’m currently Sophomore student at Dayananda Sagar University<br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> I'm currently learning: Node.js, Express.js, React.js<br>- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="20px"> Fun Fact: My bugs are just features enjoying a permanent vacation! <br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
+<div align="center">
+  <img src="https://r11r.jp/wp-content/uploads/Muscat_1-Muscat-Dot-1.gif">
+</div>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Stats :</h3>
 
 ###
@@ -77,10 +79,13 @@
 <h3> <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" height="20"> Snake & Contributins</h3>
 <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />
 <br>
-<div>
+
+## <div align="left">
+  <img src="https://media1.giphy.com/media/YWf50NNii3r4k/giphy.gif?cid=6c09b952n5pint06yb72jfhycfodsngqlswp1ivd3us39x4z&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" alt="Cover"/>  
   <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
-  <img align="center" src="https://media1.giphy.com/media/TRebCjNbc4dIA/giphy.gif?cid=6c09b952ewim6qlvcw3mc6hjugzv5mx2pmhs5a3ty0da8987&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" alt="Cover"/>  
+  <img src="https://miro.medium.com/v2/resize:fit:430/1*g2I80a9EGGQvdiFXq6Raow.jpeg" height="200px" alt="Cover"/>  
 </div>
+
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/bala-karthikeya-aluru/" target="_blank">
@@ -105,5 +110,5 @@
 </div>
 <br><br>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=alurubalakarthikeya&style=for-the-badge&color=brightgreen" > 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height=27">
+<img src="https://komarev.com/ghpvc/?username=alurubalakarthikeya&style=for-the-badge&color=brightgreen" > 
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height=24">

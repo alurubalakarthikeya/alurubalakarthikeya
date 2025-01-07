@@ -81,9 +81,9 @@
 <br>
 
 ## <div align="left">
-  <img src="https://media1.giphy.com/media/YWf50NNii3r4k/giphy.gif?cid=6c09b952n5pint06yb72jfhycfodsngqlswp1ivd3us39x4z&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="200px" alt="Cover"/>  
-  <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="200px"/>
-  <img src="https://miro.medium.com/v2/resize:fit:430/1*g2I80a9EGGQvdiFXq6Raow.jpeg" height="200px" alt="Cover"/>  
+  <img src="https://media1.giphy.com/media/YWf50NNii3r4k/giphy.gif?cid=6c09b952n5pint06yb72jfhycfodsngqlswp1ivd3us39x4z&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170px" alt="Cover"/>  
+  <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="170px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:430/1*g2I80a9EGGQvdiFXq6Raow.jpeg" height="170px" alt="Cover"/>  
 </div>
 
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>

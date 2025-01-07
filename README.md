@@ -1,10 +1,10 @@
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
-<h1 align="center"><b>Hola, I'm Bala Karthikeya <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></b></h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
+<hr/><br>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
 <p align="left"><b>I'm a creative front-end web developer <br><br>
-  - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, UI/UX, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> I’m currently Sophomore student at Dayananda Sagar University<br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> I'm currently learning: Node.js, Express.js, React.js<br>- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="20px"> Fun Fact: I like to animate and play with websites I create <br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
+  - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, UI/UX, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> I’m currently Sophomore student at Dayananda Sagar University<br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> I'm currently learning: Node.js, Express.js, React.js<br>- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="20px"> Fun Fact: My bugs are just features enjoying a permanent vacation! <br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" >
-
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Stats :</h3>
 
 ###
@@ -27,7 +27,6 @@
 ###
 
 <br clear="both">
-
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif"  />
 
 ###

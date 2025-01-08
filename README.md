@@ -5,7 +5,7 @@
 <p align="left"><b>I'm a 2nd year CS major student <br><br>
   - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, UI/UX, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> I’m currently Sophomore student at Dayananda Sagar University<br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> I'm currently learning: Node.js, Express.js, React.js<br>- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="20px"> Fun Fact: My bugs are just features enjoying a permanent vacation! <br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/">Click here</a></b></p>
 <div align="center">
-  <img src="https://storage.ko-fi.com/cdn/useruploads/f413949b-7a6d-42e1-bc13-10fc3fac260e_lethalcompany.gif">
+  <img src="https://64.media.tumblr.com/8098c817e06a23c67533faae8286ba69/3d0f01e7fb80e38d-35/s2048x3072/4c485094f822dbdd8f053616a64465056f664cb1.gifv">
 </div>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Stats :</h3>
 
@@ -97,12 +97,12 @@
 <h3> <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" height="20"> Snake & Contributins</h3>
 <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />
 <br>
+<p>
+  <img src="https://media1.giphy.com/media/YWf50NNii3r4k/giphy.gif?cid=6c09b952n5pint06yb72jfhycfodsngqlswp1ivd3us39x4z&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170px" alt="Cover" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="170px" />
+  <img src="https://miro.medium.com/v2/resize:fit:430/1*g2I80a9EGGQvdiFXq6Raow.jpeg" height="170px" alt="Cover" />
+</p>
 
-## <div>
-  <img src="https://media1.giphy.com/media/YWf50NNii3r4k/giphy.gif?cid=6c09b952n5pint06yb72jfhycfodsngqlswp1ivd3us39x4z&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170px" alt="Cover"/>  
-  <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="170px"/>
-  <img src="https://miro.medium.com/v2/resize:fit:430/1*g2I80a9EGGQvdiFXq6Raow.jpeg" height="170px" alt="Cover"/>  
-</div>
 
  <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
 <div align="left">

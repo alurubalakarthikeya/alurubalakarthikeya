@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alurubalakarthikeya&theme=shadow-green&border_radius=10" width="350" height="200" alt="Streak Counter" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alurubalakarthikeya&theme=shadow-green&border_radius=6&short_numbers=true&type=png" alt="API is on rest" />
   <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" height="200" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" height="200" alt="Languages Graph" />

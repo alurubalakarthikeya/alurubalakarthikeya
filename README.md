@@ -1,15 +1,38 @@
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <hr/><br>
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
-<p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
-  - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, BlockChain, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px">I'm currently working on: <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank"> CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently learning: Node.js, Express.js, React.js<br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>  <b>
-- <img src="https://media.tenor.com/a5_xXFMjFH0AAAAM/spotify.gif" height="19px"> Current Spotify Activity:</b>
+        <h3 align="left">
+          <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me
+        </h3>
 <div>
-  <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r5oics23pzh57srkjubjrwy34i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=04db49" alt="Spotify Now Playing" />
-  </a>
-</div></p><br>
+  <table width="100%">
+    <tr>
+      <td width="70%">
+        <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
+          - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, BlockChain, VR, AI<br>
+          - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> I'm currently working on: 
+            <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank">CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>
+          - <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently learning: Node.js, Express.js, React.js<br>
+          - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: 
+            <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
+          <b>
+          - <img src="https://media.tenor.com/a5_xXFMjFH0AAAAM/spotify.gif" height="19px"> Current Spotify Activity:</b>
+          <div>
+            <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
+              <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r5oics23pzh57srkjubjrwy34i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=04db49" alt="Spotify Now Playing" />
+            </a>
+          </div>
+        </p>
+      </td>
+      <td width="30%" align="center">
+        <a href="https://app.daily.dev/alurubalakarthikeya">
+          <img src="https://api.daily.dev/devcards/v2/6AIMNdVWVfDCQkpWgyGUO.png?r=h3h" width="300" alt="My Dev Card"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
   <img src="https://64.media.tumblr.com/0c9ea04b5af5e977328e63b59f26c910/c5955a927d5a21e3-c9/s1920x498/e5223e94c0c01718bee75be4bb419b7a6929315f.gif">
 </div>

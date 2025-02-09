@@ -12,12 +12,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alurubalakarthikeya&theme=shadow-green&border_radius=6&short_numbers=true&type=png"  height="175" alt="API is on rest" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" height="200" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" height="200" alt="Languages Graph" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3" width="350" height="180" alt="Spotify Recently Played" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alurubalakarthikeya&theme=shadow-green&border_radius=6&short_numbers=true&type=png" width="350" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" alt="Languages Graph" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3" width="350" alt="Spotify Recently Played" />
 </div>
+
 
 
 ###

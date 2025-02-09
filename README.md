@@ -3,7 +3,13 @@
 <hr/><br>
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me</h3>
 <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
-  - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, BlockChain, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px">I'm currently working on: <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank"> CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently learning: Node.js, Express.js, React.js<br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b></p><br>
+  - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, BlockChain, VR, AI<br>- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px">I'm currently working on: <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank"> CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>- <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently learning: Node.js, Express.js, React.js<br> - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>  <b>
+- <img src="https://media.tenor.com/a5_xXFMjFH0AAAAM/spotify.gif" height="19px"> Current Spotify Activity:</b>
+<div>
+  <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r5oics23pzh57srkjubjrwy34i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=04db49" alt="Spotify Now Playing" />
+  </a>
+</div></p><br>
 <div align="center">
   <img src="https://64.media.tumblr.com/0c9ea04b5af5e977328e63b59f26c910/c5955a927d5a21e3-c9/s1920x498/e5223e94c0c01718bee75be4bb419b7a6929315f.gif">
 </div>
@@ -15,7 +21,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alurubalakarthikeya&theme=shadow-green&border_radius=6&short_numbers=true&type=png" width="350" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" alt="Languages Graph" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3" width="300" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="300" alt="Spotify Recently Played" />
 </div>
 
 

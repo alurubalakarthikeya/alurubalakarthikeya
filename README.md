@@ -10,7 +10,7 @@
       <td width="70%">
         <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
           - <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" height="20px"> Interested in Full-Stack, BlockChain, VR, AI<br>
-          - <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" height="20px"> I'm currently working on: 
+          - ⚡ I'm currently working on: 
             <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank">CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>
           - <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently learning: Node.js, Express.js, React.js<br>
           - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: 

@@ -9,11 +9,11 @@
     <tr>
       <td width="70%">
         <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
-          - 🌱 Interested in Full-Stack, BlockChain, VR, AI<br>
+          - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
           - ⚡ I'm currently working on: 
             <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank">CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>
-          - <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" height="20px"> Currently learning: Node.js, Express.js, React.js<br>
-          - <img src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" height="20px"> My Old Portfolio: 
+          - 🌱 Currently learning: Node.js, Express.js, React.js<br>
+          - 🪂 My Old Portfolio: 
             <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
           <b>
           - <img src="https://media.tenor.com/a5_xXFMjFH0AAAAM/spotify.gif" height="19px"> Current Spotify Activity:</b>

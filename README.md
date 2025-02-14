@@ -129,7 +129,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
 </div>
-
 ## <h3> <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" height="20"> GitHub Trophies </h3>
 ![](https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 <br clear="both">

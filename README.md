@@ -174,4 +174,3 @@
 <img src="https://komarev.com/ghpvc/?username=alurubalakarthikeya&style=for-the-badge&color=brightgreen" > 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height=28">
 </div>
-<br>

@@ -15,7 +15,7 @@
           - ⚡ I'm currently working on: 
             <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank">CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>
           - 🌱 Currently learning: Node.js, Express.js, React.js<br>
-          - 🍄 Fun fact: I'm an Introverted Ambivert 
+          - 🍄 Fun fact: I'm an Introverted Ambivert <br>
           - 🪂 My Old Portfolio: 
             <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
           <b>

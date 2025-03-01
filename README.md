@@ -5,11 +5,11 @@
 <hr/><br>
         <h3 align="left">
           <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me
-        </h3>
+        </h3><br>
 <div>
-  <table width="100%">
+  <table align="center" width="100%">
     <tr>
-      <td width="70%">
+      <td width="80%">
         <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
           - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
           - ⚡ I'm currently working on: 
@@ -59,7 +59,7 @@
 ###
 
 <br clear="both">
-<img align="right" height="100" src="https://scontent.fblr25-1.fna.fbcdn.net/v/t1.6435-9/93886905_165205894951652_7318293821895213056_n.png?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=kdteGB-3r_MQ7kNvgEe-uZb&_nc_zt=23&_nc_ht=scontent.fblr25-1.fna&_nc_gid=A3xK-sim3aw6Gm2RhIein3O&oh=00_AYAs8cboJrj4CNwSbP_eKfL6xUu7roySZg558JDXHPW36g&oe=67A56BFC"  />
+<img align="right" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PjQHkQ-CW2MxByVl5nzPkK4PXsshbYYFdZuyfUXuS_JsqhKbXVJHWAbV4nMEHNAtAlA&usqp=CAU"  />
 
 ###
 

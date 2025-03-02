@@ -13,7 +13,7 @@
         <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
           - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
           - ⚡ I'm currently working on: 
-            <a href="https://alurubalakarthikeya.github.io/CalGPA" target="_blank">CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>
+            <a href="https://github.com/alurubalakarthikeya/CalGPA" target="_blank">CalGPA</a>, <a href="https://streakhub.vercel.app">StreakHub</a><br>
           - 🌱 Currently learning: Node.js, Express.js, React.js<br>
           - 🍄 Fun fact: I'm an Introverted Ambivert <br>
           - 🪂 My Old Portfolio: 

@@ -1,6 +1,6 @@
 <!--Created and organized by Bala Karthikeya-->
 <!--Reach me out on LinkedIn (alurubalakarthikeya) to get your free README for github!!-->
-
+ **`GitHub \ Bala Karthikeya Aluru \ README.md`**
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <hr/><br>
@@ -11,7 +11,7 @@
   <table align="center" width="100%">
     <tr>
       <td width="80%">
-        <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University<br><br>
+        <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University <br><br>
           - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
           - ⚡ I'm currently working on: 
             <a href="https://github.com/alurubalakarthikeya/CalGPA" target="_blank">CalGPA</a>, <a href="https://github.com/alurubalakarthikeya/StreakHub">StreakHub</a><br>
@@ -42,14 +42,12 @@
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Stats :</h3>
 
 ###
-
 <div align="center">
   <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green" width="350" alt="GitHub Streak (API dead) " />
   <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" alt="Languages Graph" />
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="300" alt="Spotify Recently Played" />
 </div>
-
 
 
 ###

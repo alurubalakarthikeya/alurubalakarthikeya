@@ -1,6 +1,5 @@
 <!--Created and organized by Bala Karthikeya-->
 <!--Reach me out on LinkedIn (alurubalakarthikeya) to get your free README for github!!-->
- **`>> GitHub / Bala Karthikeya Aluru / README.md`**
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <hr/><br>
@@ -134,6 +133,7 @@
 ##
 
 <h3>
+        
  <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" height="20"> GitHub Trophies </h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
@@ -167,6 +167,8 @@
   </a>
 </div>
 <br><br>
+
+ **`>> GitHub / Bala Karthikeya Aluru / README.md`**
 <div>
 <img src="https://komarev.com/ghpvc/?username=alurubalakarthikeya&style=for-the-badge&color=brightgreen" > 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height=28">

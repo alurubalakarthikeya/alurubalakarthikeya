@@ -153,7 +153,7 @@
   <a href="https://www.linkedin.com/in/bala-karthikeya-aluru/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
- <a href="https://youtube.com/@cartienoe">
+ <a href="https://www.youtube.com/@cartyk">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
  </a>
   <a href="https://www.instagram.com/karthikeya_aluru/" target="_blank">
@@ -173,4 +173,4 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height=28">
 </div>
 
- **` alurubalakarthikeya /README.md`**
+ **` alurubalakarthikeya/README.md`**

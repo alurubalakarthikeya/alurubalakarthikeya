@@ -16,7 +16,7 @@
             <a href="https://github.com/alurubalakarthikeya/CalGPA" target="_blank">CalGPA</a>, <a href="https://github.com/alurubalakarthikeya/HabitO">HabitO</a><br>
           - 🌱 Currently learning: MERN Stack<br>
           - 🍄 Fun fact: I think I'm Introverted Ambivert <br>
-          - 👾 Command: Turn on the Dark Mode if you didn't !!! <br>
+          - 👾 Request: Hehe, Turn on the Dark Mode <br>
           - 🪂 My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
           <b>
           - 🎸 Current Spotify Activity:</b>

@@ -13,9 +13,10 @@
         <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University <br><br>
           - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
           - ⚡ I'm currently working on: 
-            <a href="https://github.com/alurubalakarthikeya/CalGPA" target="_blank">CalGPA</a>, <a href="https://github.com/alurubalakarthikeya/StreakHub">StreakHub</a><br>
+            <a href="https://github.com/alurubalakarthikeya/CalGPA" target="_blank">CalGPA</a>, <a href="https://github.com/alurubalakarthikeya/HabitO">HabitO</a><br>
           - 🌱 Currently learning: MERN Stack<br>
           - 🍄 Fun fact: I think I'm Introverted Ambivert <br>
+          - 👾 Command: Turn on the Dark Mode if you didn't !!! <br>
           - 🪂 My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
           <b>
           - 🎸 Current Spotify Activity:</b>

@@ -1,5 +1,6 @@
 <!--Created and organized by Bala Karthikeya-->
 <!--Reach me out on LinkedIn (alurubalakarthikeya) to get your free README for github!!-->
+
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <hr/><br>

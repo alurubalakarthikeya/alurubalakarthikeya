@@ -1,4 +1,4 @@
-hu<!--Created and organized by Bala Karthikeya-->
+<!--Created and organized by Bala Karthikeya-->
 <!--Reach me out on LinkedIn (alurubalakarthikeya) to get your free README for github!!-->
 
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">

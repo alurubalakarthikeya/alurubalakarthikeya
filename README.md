@@ -19,7 +19,7 @@
           - 👾 Request: Hehe, Turn on the Dark Mode <br>
           - 🪂 My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
           <b>
-          - 🎸 Current Spotify Activity:</b>
+          - 🎸 Spotify Activity:</b>
           <div>
             <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
               <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r5oics23pzh57srkjubjrwy34i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=04db49" alt="Spotify Now Playing" />

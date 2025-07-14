@@ -13,7 +13,7 @@
         <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University <br><br>
           - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
           - ⚡ I'm currently working on:  <a href="https://github.com/alurubalakarthikeya/HabitO">HabitO</a><br>
-          - 🌱 Currently learning: MERN Stack<br>
+          - 🌱 Currently learning: Agent Development<br>
           - 🍄 Fun fact: I think I'm Introverted Ambivert <br>
           - 👾 Request: Hehe, Turn on the Dark Mode <br>
           - 🪂 My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>

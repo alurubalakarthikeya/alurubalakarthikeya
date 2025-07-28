@@ -11,7 +11,7 @@
     <tr>
       <td width="80%">
         <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University <br><br>
-          🐦‍🔥 Developer || Designer || 20k Followers @LinkedIn || Digital Marketer || Agent Developer<br>
+          🐦‍🔥 Developer || Designer || 20k Followers <a href="https://www.linkedin.com/in/alurubalakarthikeya/">@LinkedIn</a> || Digital Marketer || Agent Developer<br>
           🌲 I'm passionate about exploring tech domains like: Full Stack, Software & Agent Development, AGI, GenAI & Blockchain Technology <br>
           ⚡ I'm currently working on:  <a href="https://qwalt.vercel.app">QWalT.AI</a><br>
           🌱 Currently learning: Agent Development<br>

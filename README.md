@@ -7,18 +7,24 @@
           <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me
         </h3><br>
 <div>
-  <table align="center" width="100%">
+  <table>
     <tr>
       <td width="80%">
-        <p align="left"><b>I'm a 2nd year CS major student at Dayananda Sagar University <br><br>
-          - 🌲 Interested in Full-Stack, BlockChain, VR, AI<br>
-          - ⚡ I'm currently working on:  <a href="https://github.com/alurubalakarthikeya/HabitO">HabitO</a><br>
-          - 🌱 Currently learning: Agent Development<br>
-          - 🍄 Fun fact: I think I'm Introverted Ambivert <br>
-          - 👾 Request: Hehe, Turn on the Dark Mode <br>
-          - 🪂 My Old Portfolio: <a href="https://alurubalakarthikeya.github.io/PortFolio/" target="_blank">Click here</a></b><br>
-          <b>
-          - 🎸 Spotify Activity:</b>
+        <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University 👾<br><br>
+          🌲 I'm passionate about exploring tech domains like: Full Stack, Software & Agent Development, AGI, GenAI & Blockchain Technology <br>
+          ⚡ I'm currently working on:  <a href="https://qwalt.vercel.app">QWalT.AI</a><br>
+          🌱 Currently learning: Agent Development<br>
+          🍄 Fun fact: I think I'm Introverted Ambivert <br>
+          👾 Request: Hehe, Turn on the Dark Mode <br>
+          🌱 My Skills:<br>
+              • Front-end : HTML, CSS, BootStrap, JavaScript, ReactJS<br>
+              • AI & NLP: Python, FastAPI, HuggingFace Transformers, FAISS, Retrieval Augmented Generation, LangChain<br>
+              • Programming Languages : Java, C<br>
+              • Design : UI/UX, Wireframing, Prototyping<br>
+              • Soft Skills : Team & Time Management, Team work<br>
+              • Tech & Tools : Git, GitHub, Figma, Canva, Postman API, Hosting and Deployment<br>
+              • Other Skills : Graphic Design, Social Media Marketing, Prompt engineering, Video editing<br>
+          🎸 <b>Spotify Activity:</b>
           <div>
             <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
               <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r5oics23pzh57srkjubjrwy34i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=04db49" alt="Spotify Now Playing" />

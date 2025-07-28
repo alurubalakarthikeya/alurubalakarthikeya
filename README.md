@@ -10,13 +10,14 @@
   <table>
     <tr>
       <td width="80%">
-        <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University 👾<br><br>
+        <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University <br><br>
+          🐦‍🔥 Developer || Designer || 20k Followers @LinkedIn || Digital Marketer || Agent Developer<br>
           🌲 I'm passionate about exploring tech domains like: Full Stack, Software & Agent Development, AGI, GenAI & Blockchain Technology <br>
           ⚡ I'm currently working on:  <a href="https://qwalt.vercel.app">QWalT.AI</a><br>
           🌱 Currently learning: Agent Development<br>
           🍄 Fun fact: I think I'm Introverted Ambivert <br>
           👾 Request: Hehe, Turn on the Dark Mode <br>
-          🌱 My Skills:<br>
+          ☘️ My Skills:<br>
               • Front-end : HTML, CSS, BootStrap, JavaScript, ReactJS<br>
               • AI & NLP: Python, FastAPI, HuggingFace Transformers, FAISS, Retrieval Augmented Generation, LangChain<br>
               • Programming Languages : Java, C<br>

@@ -16,7 +16,6 @@
           ⚡ I'm currently working on:  <a href="https://qwalt.vercel.app">QWalT.AI</a><br>
           🌱 Currently learning: Agent Development<br>
           🍄 Fun fact: I think I'm Introverted Ambivert <br>
-          👾 Request: Hehe, Turn on the Dark Mode <br>
           ☘️ My Skills:<br>
               • Front-end : HTML, CSS, BootStrap, JavaScript, ReactJS<br>
               • AI & NLP: Python, FastAPI, HuggingFace Transformers, FAISS, Retrieval Augmented Generation, LangChain<br>

@@ -15,7 +15,7 @@
           🌲 I'm passionate about exploring tech domains like: Full Stack, Software & Agent Development, AGI, GenAI & Blockchain Technology <br>
           ⚡ I'm currently working on:  <a href="https://qwalt.vercel.app">QWalT.AI</a><br>
           🌱 Currently learning: Agent Development<br>
-          🍄 Fun fact: I think I'm Introverted Ambivert <br>
+          🍄 Fun fact: nothing <br>
           ☘️ My Skills:<br>
               • Front-end : HTML, CSS, BootStrap, JavaScript, ReactJS<br>
               • AI & NLP: Python, FastAPI, HuggingFace Transformers, FAISS, Retrieval Augmented Generation, LangChain<br>

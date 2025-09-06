@@ -1,8 +1,15 @@
 <!--Created and organized by Bala Karthikeya-->
 <!--Reach me out on LinkedIn (alurubalakarthikeya) to get your free README for github!!-->
-<img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
-<hr/><br>
+<div align="center">
+  <img src="https://64.media.tumblr.com/0c9ea04b5af5e977328e63b59f26c910/c5955a927d5a21e3-c9/s1920x498/e5223e94c0c01718bee75be4bb419b7a6929315f.gif">
+</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Front-end+Web+Developer%2C;Passionate+UI%2FUX+Designer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
+
+<hr height="1px"/>
+
+<br>
         <h3 align="left">
           <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me
         </h3><br>
@@ -13,17 +20,8 @@
         <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University <br><br>
           🐦‍🔥 Developer || Designer || 20k Followers <a href="https://www.linkedin.com/in/alurubalakarthikeya/">@LinkedIn</a> || Digital Marketer || Agent Developer<br>
           🌲 I'm passionate about exploring tech domains like: Full Stack, Software & Agent Development, AGI, GenAI & Blockchain Technology <br>
-          ⚡ I'm currently working on:  <a href="https://qwalt.vercel.app">QWalT.AI</a><br>
+          ⚡ I'm currently working on:  <a href="https://github.com/ayushsingh08-ds/Soul-Link-">Soulink</a><br>
           🌱 Currently learning: Agent Development<br>
-          🍄 Fun fact: nothing <br>
-          ☘️ My Skills:<br>
-              • Front-end : HTML, CSS, BootStrap, JavaScript, ReactJS<br>
-              • AI & NLP: Python, FastAPI, HuggingFace Transformers, FAISS, Retrieval Augmented Generation, LangChain<br>
-              • Programming Languages : Java, C<br>
-              • Design : UI/UX, Wireframing, Prototyping<br>
-              • Soft Skills : Team & Time Management, Team work<br>
-              • Tech & Tools : Git, GitHub, Figma, Canva, Postman API, Hosting and Deployment<br>
-              • Other Skills : Graphic Design, Social Media Marketing, Prompt engineering, Video editing<br>
           🎸 <b>Spotify Activity:</b>
           <div>
             <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
@@ -41,110 +39,73 @@
   </table>
 </div>
 
+
+## GitHub Stats
+
 <div align="center">
-  <img src="https://64.media.tumblr.com/0c9ea04b5af5e977328e63b59f26c910/c5955a927d5a21e3-c9/s1920x498/e5223e94c0c01718bee75be4bb419b7a6929315f.gif">
-</div>
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green" width="350" alt="GitHub Streak (API dead) " />
-  <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" alt="Languages Graph" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="300" alt="Spotify Recently Played" />
-</div>
-
-
-###
-
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20"> Language and tools</h3>
-
-###
-
-<br clear="both">
-<img align="right" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5PjQHkQ-CW2MxByVl5nzPkK4PXsshbYYFdZuyfUXuS_JsqhKbXVJHWAbV4nMEHNAtAlA&usqp=CAU"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-</div>
-
-##
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&layout=compact&theme=shadow_green&hide_border=true&bg_color=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=alurubalakarthikeya&theme=shadow_green&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=3&hide_border=true&theme=shadow_green&no-frame=true&background=0d1117&no-bg=true&margin-w=4&row=1&combine_all_yearly_contributions=true" height="170px" />
+<img src="https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 <h3>
-        
- <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" height="20"> GitHub Trophies </h3>
-
-![](https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-<br clear="both">
-<h3> <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" height="20"> Snake & Contributins</h3>
 <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />
 <br>
-<p>
-  <img src="https://media1.giphy.com/media/YWf50NNii3r4k/giphy.gif?cid=6c09b952n5pint06yb72jfhycfodsngqlswp1ivd3us39x4z&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="170px" alt="Cover" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=5&theme=shadow_green&combine_all_yearly_contributions=true" height="170px" />
-  <img src="https://miro.medium.com/v2/resize:fit:430/1*g2I80a9EGGQvdiFXq6Raow.jpeg" height="170px" alt="Cover" />
-</p>
+<img src="https://github.com/alurubalakarthikeya/alurubalakarthikeya/blob/main/profile-3d-contrib/profile-south-season-animate.svg" alt="3d-graph"/>
 
 
- <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/215283043-76c34df4-b495-46c3-b174-7aca38032b91.gif" height="15">  My Socials:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/bala-karthikeya-aluru/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+</div>
+
+
+## ☘️ My Skills  
+
+<div align="center">
+
+### Front-end  
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react&theme=dark" />
+
+### AI & NLP  
+<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />  
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" height="45"/>  
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="45" height="45" title="LangChain"/>
+<img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="45" height="45" title="FAISS"/>  
+
+### Programming Languages  
+<img src="https://skillicons.dev/icons?i=java,c,cpp&theme=dark" />  
+
+### Tech & Tools  
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,eclipse&theme=dark" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="45" alt="filezilla logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+
+### Other Skills  
+
+<img src="https://imgs.search.brave.com/OC4-UKgf1zeU4NZ8XcZs8i0AEfcUMfY8dTp4jnF5dMk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jaGF0/Z3B0YWlodWIuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzA2L0NoYXRHcHQt/TG9nby13aXRoLUJs/YWNrLUJhY2tncm91/bmQucG5n" width="50" height="50" alt="ChatGPT" title="ChatGPT"/>
+
+<img src="https://imgs.search.brave.com/y7Gu8NnYf45AGWz1pAQ7HktxkW4S4vXoXTkFCuEo6b4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMjMvQ2Fw/Y3V0LUxvZ28tUE5H/LVBpY3R1cmUucG5n" width="50" height="50" alt="CapCut" title="CapCut"/>
+
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+
+</div>
+
+## My Socials
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alurubalakarthikeya/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
- <a href="https://www.youtube.com/@cartyk">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
- </a>
-  <a href="https://www.instagram.com/karthikeya_aluru/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:alurubalakarthikeya@gmail.com" target="_blank">
+    <img src="https://imgs.search.brave.com/pJvB4B-4SbgkgJOERRIF2cVSJJHG7zkEVHHB9Y30JQY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA1/L0dtYWlsLWxvZ28t/NTAweDI4MS5wbmc" alt="LinkedIn" height="92" width="92" />
   </a>
-  <a href="https://www.hackerrank.com/profile/eng23cs0520" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/karthikeya_aluru" target="_blank">
+    <img src="https://imgs.search.brave.com/VIuoLU8xLM-3r1H1mnyDP6mzc5DA1LNQe3ZtYev0Gf8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vaW1hZ2Vz/L2xhcmdlLzJ4L2lu/c3RhZ3JhbS1sb2dv/LWdyYWRpZW50LXRy/YW5zcGFyZW50LnBu/Zw" alt="Instagram" height="80" width="80" />
   </a>
-  <a href="https://codepen.io/Aluru-Bala-Karthikeya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/alurukarthikeya/" target="_blank">
+    <img src="https://imgs.search.brave.com/nNPANxJpB55FisoU8jB_P4X2F0EXuq4y6rWVH3jBD9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLWxv/Z28taWNvbi1zdmct/cG5nLWRvd25sb2Fk/LTI5NDQ5NjAucG5n/P2Y9d2VicCZ3PTI1/Ng" alt="LeetCode" height="65" width="65" />
   </a>
 </div>
 <br><br>

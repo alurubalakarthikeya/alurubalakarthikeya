@@ -50,8 +50,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 <h3>
 <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />
-<br>
-<img src="https://github.com/alurubalakarthikeya/alurubalakarthikeya/blob/main/profile-3d-contrib/profile-south-season-animate.svg" alt="3d-graph"/>
 
 
 

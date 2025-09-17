@@ -45,8 +45,9 @@
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&layout=compact&theme=shadow_green&hide_border=true&bg_color=0d1117"/>
-<img src="https://streak-stats.demolab.com?user=alurubalakarthikeya&theme=shadow_green&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow_green&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 <img src="https://github-contributor-stats.vercel.app/api?username=alurubalakarthikeya&limit=3&hide_border=true&theme=shadow_green&no-frame=true&background=0d1117&no-bg=true&margin-w=4&row=1&combine_all_yearly_contributions=true" height="170px" />
+  
 <img src="https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 <h3>
 <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />

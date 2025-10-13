@@ -11,9 +11,9 @@
           <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me
         </h3><br>
         <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University 👾<br><br>
-          🌲 I'm passionate about exploring tech domains like: Full Stack, Software & Agent Development, AGI, GenAI & Blockchain Technology <br>
-          🐦‍🔥 I'm Currently working on: <a href="https://github.com/alurubalakarthikeya/TexToTest">TexToTest</a>
-          🍄 Fun fact: I think I'm Introverted Ambivert <br>=
+          🌲 I'm passionate about exploring tech domains like: Full Stack, Agent + Software Development, AGI, GenAI & Blockchain Technology <br>
+          🐦‍🔥 I'm Currently working on: <a href="https://github.com/alurubalakarthikeya/TexToTest">TexToTest</a><br>
+          🍄 Fun fact: I think I'm Introverted Ambivert <br>
           🌱 My Skills:<br>
               • Front-end : HTML, CSS, BootStrap, JavaScript, TypeScript, ReactJS<br>
               • AI & NLP: Python, FastAPI, FAISS, Retrieval Augmented Generation, LangChain<br>

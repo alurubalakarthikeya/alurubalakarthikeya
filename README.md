@@ -3,6 +3,7 @@
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Full-Stack+Developer%2C;Passionate+UI%2FUX+Designer%2C;Agentic+WebApps+Developer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <br>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  About Me :</h3>
 <div align="center">
   
   
@@ -19,13 +20,12 @@
   
 </div>
 
-
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  About Me :</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Skills:</h3>
 <table align="center" width="100%" cellpadding="10" cellspacing="0">
 <tr>
   <td valign="top" width="50%">
     
-  ### AI & Backend Realm
+  ### Agentic AI 
 
 
 ```yaml
@@ -43,13 +43,13 @@ Data:
   - Prompt Engineering 
 ```
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,kubernetes,docker" />
 </p>
 
   </td>
 <td valign="top" width="50%">
 
-### Frontend
+### Development
 ```yaml
 Languages:
   - HTML5, CSS3
@@ -66,7 +66,7 @@ Currently Learning:
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
 
   </td>
@@ -81,8 +81,7 @@ Version Control:
   - Git, GitHub
   
 Design:
-  - Figma
-  - Canva
+  - Figma, Canva
   
 Development:
   - VSCode
@@ -99,7 +98,7 @@ Deployment:
   </td>
   <td valign="top" width="50%">
 
-### Languages & More
+### Languages & Skills
 ```yaml
 Programming:
   - Java

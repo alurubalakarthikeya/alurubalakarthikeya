@@ -25,7 +25,7 @@
 <tr>
   <td valign="top" width="50%">
     
-  ### Agentic AI 
+  ### AI Stack
 
 
 ```yaml
@@ -126,10 +126,19 @@ Other Skills:
 
 ###
 <div align="center">
-  <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green" width="350" alt="GitHub Streak (API dead) " />
-  <img src="https://github-readme-stats.vercel.app/api?username=alurubalakarthikeya&theme=shadow_green&show_icons=true&rank_icon=github" width="350" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alurubalakarthikeya&hide_progress=true&theme=shadow_green" width="350" alt="Languages Graph" />
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="300" alt="Spotify Recently Played" />
+  <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green" width="530" alt="GitHub Streak (API dead) " />
+  <br>
+ 
+  <div align="center">
+  
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alurubalakarthikeya&theme=github_dark" alt="Most Commit Language" />
+  
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alurubalakarthikeya&theme=github_dark" alt="Stats" />
+  
+</div>
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="360" alt="Spotify Recently Played" />
+  <img width="5px" />
+  <a href="https://app.daily.dev/alurubalakarthikeya"><img src="https://api.daily.dev/devcards/v2/6AIMNdVWVfDCQkpWgyGUO.png?type=wide&r=z4n" width="369px" alt="Karthikeya's Dev Card"/></a>
   <br>
   
 ![](https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)

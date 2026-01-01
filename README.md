@@ -126,7 +126,7 @@ Other Skills:
 
 ###
 <div align="center">
-  <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green" width="530" alt="GitHub Streak (API dead) " />
+  <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green" width="430" alt="GitHub Streak (API dead) " />
   <br>
  
   <div align="center">
@@ -136,9 +136,9 @@ Other Skills:
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alurubalakarthikeya&theme=github_dark" alt="Stats" />
   
 </div>
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="360" alt="Spotify Recently Played" />
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=31r5oics23pzh57srkjubjrwy34i&count=3&theme=shadow_green" width="340" alt="Spotify Recently Played" />
   <img width="5px" />
-  <a href="https://app.daily.dev/alurubalakarthikeya"><img src="https://api.daily.dev/devcards/v2/6AIMNdVWVfDCQkpWgyGUO.png?type=wide&r=z4n" width="369px" alt="Karthikeya's Dev Card"/></a>
+  <a href="https://app.daily.dev/alurubalakarthikeya"><img src="https://api.daily.dev/devcards/v2/6AIMNdVWVfDCQkpWgyGUO.png?type=wide&r=z4n" width="349px" alt="Karthikeya's Dev Card"/></a>
   <br>
   
 ![](https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)

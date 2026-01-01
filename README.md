@@ -3,41 +3,125 @@
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Full-Stack+Developer%2C;Passionate+UI%2FUX+Designer%2C;Agentic+WebApps+Developer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <br>
-<div>
-  <table>
-    <tr>
-      <td width="80%">
-                <h3 align="left">
-          <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" height="20px"> About Me
-        </h3><br>
-        <p align="left"><b>Holaa👋🏼, I'm Karthikeya, a pre-final year student in Computer Science at Dayananda Sagar University 👾<br><br>
-          🌲 I'm passionate about exploring tech domains like: Full Stack, Agentic + Software Development, AGI, GenAI & Blockchain Technology <br>
-          🐦‍🔥 I'm Currently working on: <a href="https://github.com/alurubalakarthikeya/TexToTest">TexToTest</a><br>
-          🍄 Fun fact: I think I'm Introverted Ambivert <br>
-          🌱 My Skills:<br>
-              • Frontend : HTML, CSS, BootStrap, JavaScript, TypeScript, ReactJS<br>
-              • AI & NLP: Python, FastAPI, FAISS, Retrieval Augmented Generation, LangChain<br>
-              • Programming Languages : Java, C<br>
-              • Design : UI/UX, Wireframing, Prototyping<br>
-              • Soft Skills : Time Management, Team work<br>
-              • Tech & Tools : Git, GitHub, Figma, Canva, Postman API, Hosting and Deployment<br>
-              • Other Skills : Graphic Design, Social Media Marketing, Prompt engineering, Video editing<br>
-          🎸 <b>Spotify Activity:</b>
-          <div>
-            <a href="https://open.spotify.com/user/31r5oics23pzh57srkjubjrwy34i">
-              <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31r5oics23pzh57srkjubjrwy34i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=04db49" alt="Spotify Now Playing" />
-            </a>
-          </div>
-        </p>
-      </td>
-      <td width="30%" align="center">
-        <a href="https://app.daily.dev/alurubalakarthikeya">
-          <img src="https://api.daily.dev/devcards/v2/6AIMNdVWVfDCQkpWgyGUO.png?r=h3h" width="300" alt="My Dev Card"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  
+  
+  ```typescript
+  const balakarthikeya = {
+      location: "Bengaluru, India",
+      education: "CSE @Dayananda Sagar University",
+      currentFocus: "Agentic AI + Full Stack Development",
+      status: "Building Portfolio",
+      vibe: "Introverted Ambivert",
+      passion: ["AGI", "GenAI", "Blockchain", "Innovation"]
+  };
+  ```
+  
 </div>
+
+
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  About Me :</h3>
+<table align="center" width="100%" cellpadding="10" cellspacing="0">
+<tr>
+  <td valign="top" width="50%">
+    
+  ### AI & Backend Realm
+
+
+```yaml
+Core:
+  - Python
+  - FastAPI
+  
+AI/ML:
+  - PyTorch
+  - FAISS
+  - RAG Systems
+  
+Data:
+  - Vector Databases
+  - Prompt Engineering 
+```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,kubernetes,docker" />
+</p>
+
+  </td>
+<td valign="top" width="50%">
+
+### Frontend
+```yaml
+Languages:
+  - HTML5, CSS3
+  - JavaScript (ES6+)
+  - TypeScript
+  
+Frameworks:
+  - React.js
+  - Bootstrap
+  
+Currently Learning:
+  - Next.js
+  - Flutter
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,nextjs" />
+</p>
+
+  </td>
+</tr>
+
+<tr>
+  <td valign="top" width="50%">
+
+### Tools & Platforms
+```yaml
+Version Control:
+  - Git, GitHub
+  
+Design:
+  - Figma
+  - Canva
+  
+Development:
+  - VSCode
+  - Postman
+  
+Deployment:
+  - Vercel, Netlify, Render
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel" />
+</p>
+
+  </td>
+  <td valign="top" width="50%">
+
+### Languages & More
+```yaml
+Programming:
+  - Java
+  - C
+  - Python
+  - JavaScript/TypeScript
+  
+Other Skills:
+  - UI/UX Design
+  - Digital Marketing
+  - Video Editing
+  - Graphic Design
+  - VFX
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts,blender" />
+</p>
+
+  </td>
+</tr>
+</table>
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="20">  My Stats :</h3>
 
@@ -55,23 +139,31 @@
 <br>
 </div>
 
-## My Socials
+<div align="center">
+
+## Let's Connect
+
+</div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/alurubalakarthikeya/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  <a href="https://www.linkedin.com/in/alurubalakarthikeya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alurubalakarthikeya@gmail.com" target="_blank">
-    <img src="https://imgs.search.brave.com/pJvB4B-4SbgkgJOERRIF2cVSJJHG7zkEVHHB9Y30JQY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly8xMDAw/bG9nb3MubmV0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzA1/L0dtYWlsLWxvZ28t/NTAweDI4MS5wbmc" alt="LinkedIn" height="92" width="92" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:alurubalakarthikeya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/karthikeya_aluru" target="_blank">
-    <img src="https://imgs.search.brave.com/VIuoLU8xLM-3r1H1mnyDP6mzc5DA1LNQe3ZtYev0Gf8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vaW1hZ2Vz/L2xhcmdlLzJ4L2lu/c3RhZ3JhbS1sb2dv/LWdyYWRpZW50LXRy/YW5zcGFyZW50LnBu/Zw" alt="Instagram" height="80" width="80" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/alurubalakarthikeya">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/alurukarthikeya/" target="_blank">
-    <img src="https://imgs.search.brave.com/nNPANxJpB55FisoU8jB_P4X2F0EXuq4y6rWVH3jBD9M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLWxv/Z28taWNvbi1zdmct/cG5nLWRvd25sb2Fk/LTI5NDQ5NjAucG5n/P2Y9d2VicCZ3PTI1/Ng" alt="LeetCode" height="65" width="65" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/alurukarthikeya/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://app.daily.dev/alurubalakarthikeya">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white" height="40" />
   </a>
 </div>
 <br><br>

@@ -148,6 +148,7 @@ Other Skills:
 </div>
 
 <div align="center">
+  
 ## Let's Connect
 
 </div>

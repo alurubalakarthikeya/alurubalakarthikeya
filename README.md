@@ -167,7 +167,7 @@ Other Skills:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/alurukarthikeya/">
+  <a href="https://leetcode.com/u/alurubalakarthikeya/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;

@@ -144,7 +144,8 @@ Other Skills:
   
 ![](https://github-profile-trophy.vercel.app/?username=alurubalakarthikeya&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 <br clear="both">
-<img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />-->
+![My GitHub Game](game.gif)
 <br>
 </div>
 

@@ -38,9 +38,9 @@ AI/ML:
   - FAISS
   - RAG Systems
   
-Data:
-  - Vector Databases
-  - Prompt Engineering 
+Currently Leaning:
+  - Docker
+  - Kubernetes 
 ```
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,pytorch,kubernetes,docker" />
@@ -62,7 +62,7 @@ Frameworks:
   
 Currently Learning:
   - Next.js
-  - Flutter
+  - React Native
 ```
 
 <p align="center">
@@ -112,7 +112,6 @@ Other Skills:
   - Digital Marketing
   - Video Editing
   - Graphic Design
-  - VFX
 ```
 
 <p align="center">

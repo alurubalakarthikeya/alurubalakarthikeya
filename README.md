@@ -11,10 +11,10 @@
   const balakarthikeya = {
       location: "Bengaluru, India",
       education: "CSE @Dayananda Sagar University",
-      currentFocus: "Agentic AI + Full Stack Development",
+      currentFocus: "DevOps + Workflow Automation",
       status: "Building Portfolio",
       vibe: "Introverted Ambivert",
-      passion: ["AGI", "GenAI", "Blockchain", "Innovation"]
+      passion: ["AGI", "GenAI", "Automation", "DevOps"]
   };
   ```
   

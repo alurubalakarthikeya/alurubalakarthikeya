@@ -3,7 +3,7 @@
 <img  src="https://i.imgur.com/55ZJaQ3.gif" width="1000">
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=cutive&size=25&duration=2000&pause=1000&color=044289&center=true&vCenter=true&height=25&lines=Hola%2C+I'm+Bala+Karthikeya+!!;A+Full-Stack+Developer%2C;Passionate+UI%2FUX+Designer%2C;Agentic+WebApps+Developer%2C;Active+Digital+Marketer+." alt="Typing SVG" /></a><img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px"></p>
 <br>
-<h3 align="left">About Me :</h3>
+<h4 align="left">About Me :</h4>
 <div align="center">
   
   
@@ -20,10 +20,12 @@
   
 </div>
 
-<h3 align="left"> My Skills:</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/main/skills.svg" width="100%" alt="Tech Stack" />
+</div>
 
 
-<h3 align="left">My Stats :</h3>
+<h4 align="left">My Stats :</h4>
 
 ###
 <div align="center">

@@ -1,0 +1,98 @@
+<svg width="100%" viewBox="0 0 860 440" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Bala Karthikeya — Tech Stack</title>
+<desc>Four skill cards: ServiceNow, Frontend Dev, Tools and DevOps, Design and Creative</desc>
+
+<rect width="860" height="440" rx="12" fill="#0d1117"/>
+<text x="30" y="36" font-family="'Fira Code',monospace" font-size="11" fill="#484f58" letter-spacing="3">// tech stack</text>
+
+<!-- CARD 1: ServiceNow -->
+<rect x="20" y="50" width="400" height="165" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<circle cx="42" cy="78" r="5" fill="#39d353"/>
+<text x="55" y="82" font-family="'Fira Code',monospace" font-size="10" font-weight="600" fill="#39d353" letter-spacing="2">SERVICENOW PLATFORM</text>
+<rect x="32"  y="95" width="95" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="79"  y="109" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">Flow Designer</text>
+<rect x="135" y="95" width="102" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="186" y="109" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">Script Includes</text>
+<rect x="245" y="95" width="100" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="295" y="109" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">Business Rules</text>
+<rect x="32"  y="123" width="66" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="65"  y="137" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">REST API</text>
+<rect x="106" y="123" width="92" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="152" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">Service Portal</text>
+<rect x="206" y="123" width="44" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="228" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">ITSM</text>
+<rect x="258" y="123" width="90" height="20" rx="10" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="303" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#39d353" text-anchor="middle">GlideRecord</text>
+<line x1="32" y1="155" x2="408" y2="155" stroke="#21262d" stroke-width="0.5"/>
+<text x="32" y="172" font-family="'Fira Code',monospace" font-size="10" fill="#484f58" letter-spacing="1">learning →</text>
+<rect x="106" y="160" width="110" height="20" rx="10" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<text x="161" y="174" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e" text-anchor="middle">IntegrationHub</text>
+<rect x="224" y="160" width="90" height="20" rx="10" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<text x="269" y="174" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e" text-anchor="middle">App Engine</text>
+
+<!-- CARD 2: Frontend -->
+<rect x="440" y="50" width="400" height="165" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<circle cx="462" cy="78" r="5" fill="#3fb950"/>
+<text x="475" y="82" font-family="'Fira Code',monospace" font-size="10" font-weight="600" fill="#3fb950" letter-spacing="2">FRONTEND DEV</text>
+<rect x="452" y="95" width="80" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="492" y="109" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">TypeScript</text>
+<rect x="540" y="95" width="64" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="572" y="109" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">React.js</text>
+<rect x="612" y="95" width="82" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="653" y="109" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">JavaScript</text>
+<rect x="452" y="123" width="94" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="499" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">Tailwind CSS</text>
+<rect x="554" y="123" width="46" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="577" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">HTML5</text>
+<rect x="608" y="123" width="42" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="629" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">CSS3</text>
+<rect x="658" y="123" width="74" height="20" rx="10" fill="#0d2117" stroke="#1a4133" stroke-width="0.5"/>
+<text x="695" y="137" font-family="'Fira Code',monospace" font-size="11" fill="#3fb950" text-anchor="middle">Bootstrap</text>
+<line x1="452" y1="155" x2="828" y2="155" stroke="#21262d" stroke-width="0.5"/>
+<text x="452" y="172" font-family="'Fira Code',monospace" font-size="10" fill="#484f58" letter-spacing="1">learning →</text>
+<rect x="526" y="160" width="56" height="20" rx="10" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<text x="554" y="174" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e" text-anchor="middle">Next.js</text>
+<rect x="590" y="160" width="96" height="20" rx="10" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<text x="638" y="174" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e" text-anchor="middle">React Native</text>
+
+<!-- CARD 3: Tools & DevOps -->
+<rect x="20" y="234" width="400" height="188" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<circle cx="42" cy="262" r="5" fill="#bc8cff"/>
+<text x="55" y="266" font-family="'Fira Code',monospace" font-size="10" font-weight="600" fill="#bc8cff" letter-spacing="2">TOOLS &amp; DEVOPS</text>
+<text x="32"  y="288" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">VERSION CONTROL</text>
+<text x="40"  y="307" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Git</text>
+<text x="40"  y="323" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· GitHub</text>
+<text x="32"  y="346" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">CONTAINERISATION</text>
+<text x="40"  y="365" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Docker</text>
+<text x="40"  y="381" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Kubernetes</text>
+<text x="230" y="288" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">DEV TOOLS</text>
+<text x="238" y="307" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· VSCode</text>
+<text x="238" y="323" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Postman</text>
+<text x="230" y="346" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">CI / CD</text>
+<text x="238" y="365" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Jenkins</text>
+<text x="238" y="381" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Vercel</text>
+<text x="238" y="397" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Netlify</text>
+
+<!-- CARD 4: Design & Creative -->
+<rect x="440" y="234" width="400" height="188" rx="8" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+<circle cx="462" cy="262" r="5" fill="#f78166"/>
+<text x="475" y="266" font-family="'Fira Code',monospace" font-size="10" font-weight="600" fill="#f78166" letter-spacing="2">DESIGN &amp; CREATIVE</text>
+<text x="452" y="288" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">DESIGN TOOLS</text>
+<text x="460" y="307" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Figma</text>
+<text x="460" y="323" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Canva</text>
+<text x="452" y="346" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">LANGUAGES</text>
+<rect x="452" y="354" width="36" height="18" rx="9" fill="#2a1510" stroke="#5a2a20" stroke-width="0.5"/>
+<text x="470"  y="366" font-family="'Fira Code',monospace" font-size="10" fill="#f78166" text-anchor="middle">Java</text>
+<rect x="496" y="354" width="22" height="18" rx="9" fill="#2a1510" stroke="#5a2a20" stroke-width="0.5"/>
+<text x="507"  y="366" font-family="'Fira Code',monospace" font-size="10" fill="#f78166" text-anchor="middle">C</text>
+<rect x="526" y="354" width="52" height="18" rx="9" fill="#2a1510" stroke="#5a2a20" stroke-width="0.5"/>
+<text x="552"  y="366" font-family="'Fira Code',monospace" font-size="10" fill="#f78166" text-anchor="middle">Python</text>
+<rect x="586" y="354" width="38" height="18" rx="9" fill="#2a1510" stroke="#5a2a20" stroke-width="0.5"/>
+<text x="605"  y="366" font-family="'Fira Code',monospace" font-size="10" fill="#f78166" text-anchor="middle">JS/TS</text>
+<text x="660" y="288" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">OTHER</text>
+<text x="668" y="307" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· UI/UX Design</text>
+<text x="668" y="323" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Dig. Marketing</text>
+<text x="668" y="339" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Video Editing</text>
+<text x="668" y="355" font-family="'Fira Code',monospace" font-size="12" fill="#8b949e">· Graphic Design</text>
+
+</svg>

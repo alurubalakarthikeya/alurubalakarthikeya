@@ -1,0 +1,101 @@
+<svg width="100%" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Bala Karthikeya — About</title>
+<desc>About card with code block on the left and quick stats on the right</desc>
+
+<rect width="860" height="280" rx="12" fill="#0d1117"/>
+
+<!-- traffic lights -->
+<circle cx="28" cy="24" r="6" fill="#ff5f57"/>
+<circle cx="48" cy="24" r="6" fill="#febc2e"/>
+<circle cx="68" cy="24" r="6" fill="#28c840"/>
+<text x="86" y="29" font-family="'Fira Code',monospace" font-size="10" fill="#484f58" letter-spacing="2">// whoami.ts</text>
+
+<!-- divider between left and right -->
+<line x1="460" y1="48" x2="460" y2="262" stroke="#21262d" stroke-width="0.5"/>
+
+<!-- LEFT: code block -->
+<text x="30" y="64" font-family="'Fira Code',monospace" font-size="11" fill="#39d353">▸</text>
+<text x="44" y="64" font-family="'Fira Code',monospace" font-size="11" fill="#58a6ff">const balaKarthikeya = {</text>
+
+<!-- line 01 -->
+<text x="30"  y="86" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">01</text>
+<text x="58"  y="86" font-family="'Fira Code',monospace" font-size="11" fill="#7ee787">location</text>
+<text x="122" y="86" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">  : </text>
+<text x="148" y="86" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"Bengaluru, India"</text>
+<text x="298" y="86" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">,</text>
+
+<!-- line 02 -->
+<text x="30"  y="104" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">02</text>
+<text x="58"  y="104" font-family="'Fira Code',monospace" font-size="11" fill="#7ee787">education</text>
+<text x="130" y="104" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e"> : </text>
+<text x="152" y="104" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"B.Tech CSE @ DSU"</text>
+<text x="296" y="104" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">,</text>
+
+<!-- line 03 -->
+<text x="30"  y="122" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">03</text>
+<text x="58"  y="122" font-family="'Fira Code',monospace" font-size="11" fill="#7ee787">focus</text>
+<text x="96"  y="122" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">     : </text>
+<text x="140" y="122" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"ServiceNow Developer"</text>
+<text x="322" y="122" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">,</text>
+
+<!-- line 04: status badge simulation -->
+<text x="30"  y="140" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">04</text>
+<text x="58"  y="140" font-family="'Fira Code',monospace" font-size="11" fill="#7ee787">status</text>
+<text x="101" y="140" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">    : </text>
+<rect x="140" y="129" width="186" height="17" rx="8" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<circle cx="152" cy="137" r="4" fill="#39d353"/>
+<text x="162" y="141" font-family="'Fira Code',monospace" font-size="10" fill="#39d353">Final year · Actively applying</text>
+<text x="328" y="140" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">,</text>
+
+<!-- line 05 -->
+<text x="30"  y="158" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">05</text>
+<text x="58"  y="158" font-family="'Fira Code',monospace" font-size="11" fill="#7ee787">building</text>
+<text x="115" y="158" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">  : </text>
+<text x="141" y="158" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"Agentic apps + SNOW workflows"</text>
+<text x="362" y="158" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">,</text>
+
+<!-- line 06 passion array -->
+<text x="30"  y="176" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">06</text>
+<text x="58"  y="176" font-family="'Fira Code',monospace" font-size="11" fill="#7ee787">passion</text>
+<text x="108" y="176" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">   : </text>
+<text x="136" y="176" font-family="'Fira Code',monospace" font-size="11" fill="#e6edf3">[</text>
+<text x="148" y="176" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"ServiceNow"</text>
+<text x="236" y="176" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">, </text>
+<text x="250" y="176" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"Full-Stack"</text>
+<text x="334" y="176" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">,</text>
+
+<text x="30"  y="192" font-family="'Fira Code',monospace" font-size="10" fill="#30363d">  </text>
+<text x="148" y="192" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"DevOps"</text>
+<text x="210" y="192" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">, </text>
+<text x="224" y="192" font-family="'Fira Code',monospace" font-size="11" fill="#a5d6ff">"Automation"</text>
+<text x="316" y="192" font-family="'Fira Code',monospace" font-size="11" fill="#e6edf3"> ]</text>
+
+<text x="58"  y="210" font-family="'Fira Code',monospace" font-size="11" fill="#8b949e">}</text>
+
+<!-- RIGHT: quick stats -->
+<text x="480" y="68" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">BASE</text>
+<text x="480" y="84" font-family="'Fira Code',monospace" font-size="12" fill="#58a6ff">Bengaluru, India</text>
+
+<text x="480" y="108" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">DEGREE</text>
+<text x="480" y="124" font-family="'Fira Code',monospace" font-size="12" fill="#e6edf3">B.Tech Computer Science</text>
+<text x="480" y="139" font-family="'Fira Code',monospace" font-size="11" fill="#484f58">Dayananda Sagar University</text>
+
+<line x1="480" y1="153" x2="840" y2="153" stroke="#21262d" stroke-width="0.5"/>
+
+<text x="480" y="170" font-family="'Fira Code',monospace" font-size="9" fill="#484f58" letter-spacing="2">PASSION STACK</text>
+<rect x="480" y="178" width="82" height="18" rx="9" fill="#0d2420" stroke="#1a4033" stroke-width="0.5"/>
+<text x="521" y="191" font-family="'Fira Code',monospace" font-size="10" fill="#39d353" text-anchor="middle">ServiceNow</text>
+<rect x="570" y="178" width="68" height="18" rx="9" fill="#0d2137" stroke="#1a4166" stroke-width="0.5"/>
+<text x="604" y="191" font-family="'Fira Code',monospace" font-size="10" fill="#58a6ff" text-anchor="middle">Full-Stack</text>
+<rect x="646" y="178" width="52" height="18" rx="9" fill="#1a1030" stroke="#3a2466" stroke-width="0.5"/>
+<text x="672" y="191" font-family="'Fira Code',monospace" font-size="10" fill="#bc8cff" text-anchor="middle">DevOps</text>
+<rect x="706" y="178" width="76" height="18" rx="9" fill="#2a1510" stroke="#5a2a20" stroke-width="0.5"/>
+<text x="744" y="191" font-family="'Fira Code',monospace" font-size="10" fill="#f78166" text-anchor="middle">Automation</text>
+
+<line x1="480" y1="208" x2="840" y2="208" stroke="#21262d" stroke-width="0.5"/>
+
+<text x="480" y="224" font-family="'Fira Code',monospace" font-size="11" fill="#484f58"><tspan fill="#39d353">▸</tspan> Currently exploring SNOW dev</text>
+<text x="480" y="240" font-family="'Fira Code',monospace" font-size="11" fill="#484f58"><tspan fill="#58a6ff">▸</tspan> Building agentic web apps</text>
+<text x="480" y="256" font-family="'Fira Code',monospace" font-size="11" fill="#484f58"><tspan fill="#bc8cff">▸</tspan> Final year · ships fast · learns faster</text>
+
+</svg>

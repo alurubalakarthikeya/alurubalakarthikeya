@@ -16,21 +16,35 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/main/about.svg" width="100%" alt="About" />
-</div>
+```js
+const balaKarthikeya = {
+  role: "ServiceNow Developer + DevOps",
+  education: "B.Tech Computer Science @ Dayananda Sagar University",
+  location: "Bengaluru, India",
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/main/skills.svg" width="100%" alt="Tech Stack" />
-</div>
+  currently: [
+    "Building ServiceNow workflows & applications",
+    "Developing AI-powered web applications",
+    "Exploring automation, DevOps & agentic systems"
+  ],
 
-<br/>
+  interests: [
+    "ServiceNow",
+    "Full-Stack Development",
+    "AI / LLM Applications",
+    "DevOps",
+    "Automation"
+  ],
+
+};
+```
 
 <div align="center">
   <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green&hide_border=true" height="130" />
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alurubalakarthikeya&theme=github_dark" height="130" />
 </div>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alurubalakarthikeya&theme=github_dark" height="150" />
   &nbsp;&nbsp;
@@ -39,9 +53,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alurubalakarthikeya&theme=github_dark&utcOffset=5.5" height="150" />
 </div>
 
-
-
 <div align="center">
   <img src="game.gif" width="95%" alt="GitHub Game" />
 </div>
-

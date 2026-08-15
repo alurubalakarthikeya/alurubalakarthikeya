@@ -1,4 +1,7 @@
 <!--Created and organized by Bala Karthikeya-->
+<div align="center">
+  <img src="bg.png" width="95%" alt="bg" />
+</div>
 
 ```js
 const balaKarthikeya = {

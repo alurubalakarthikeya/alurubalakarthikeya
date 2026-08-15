@@ -1,30 +1,15 @@
 <!--Created and organized by Bala Karthikeya-->
 <div align="center">
-  <img src="bg.png" width="95%" alt="bg" />
+  <img src="github-bg.png" width="95%" alt="bg" />
 </div>
 
-```js
-const balaKarthikeya = {
-  role: "ServiceNow Developer + DevOps",
-  education: "B.Tech Computer Science @ Dayananda Sagar University",
-  location: "Bengaluru, India",
-
-  currently: [
-    "Building ServiceNow workflows & applications",
-    "Developing AI-powered web applications",
-    "Exploring automation, DevOps & agentic systems"
-  ],
-
-  interests: [
-    "ServiceNow",
-    "Full-Stack Development",
-    "AI / LLM Applications",
-    "DevOps",
-    "Automation"
-  ],
-
-};
-```
+### Hi, I'm Bala Karthikeya 👋
+🌱 I’m currently learning **DevOps, AI/LLM applications, and agentic systems** </br>
+🫱🏽‍🫲 I’m looking to collaborate on **AI, Full-Stack, ServiceNow, and DevOps projects** </br>
+☘️ I’m looking for help with **building scalable AI-powered applications and better automation workflows** </br>
+🍄 Ask me about **ServiceNow, Full-Stack Development, AI/LLM applications, and DevOps** </br>
+👾 How to reach me: search **alurubalakarthikeya** </br>
+⚡ Fun fact: **I like turning random ideas into working projects** </br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green&hide_border=true" height="130" />

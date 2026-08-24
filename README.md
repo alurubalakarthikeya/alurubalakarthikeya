@@ -9,7 +9,7 @@
 ☘️ I’m looking for help with **building scalable AI-powered applications and better automation workflows** </br>
 🍄 Ask me about **ServiceNow, Full-Stack Development, AI/LLM applications, and DevOps** </br>
 👾 How to reach me: search **alurubalakarthikeya** </br>
-⚡ Fun fact: **I like turning random ideas into working projects** </br>
+⚡ Fun fact: **Loves Nature** </br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats-drab-phi.vercel.app?user=alurubalakarthikeya&theme=shadow-green&hide_border=true" height="130" />
